@@ -16,14 +16,14 @@ library(stringr)
 
 
 # Please include the file names and locations for each of the files below
-# Default code uses the most recent files for the 36k (ng00067.v10). It also uses the ALL consent version of each file. If you are not approved for all consents, merge the by-consent files for for each file type and replace the file names below with your merged file.
+# Default code uses the most recent files for the 36k (ng00067.v11). It also uses the ALL consent version of each file. If you are not approved for all consents, merge the by-consent files for for each file type and replace the file names below with your merged file.
 # To use the defaults, place each file in a folder called "data" in the same directory as this script and set working directory to source file location
 
-cc_pheno_file = "data/ADSPCaseControlPhenotypes_DS_2022.08.18.v2_ALL.csv"
+cc_pheno_file = "data/ADSPCaseControlPhenotypes_DS_2022.08.18.v3_ALL.csv"
 fam_pheno_file = "data/ADSPFamilyBasedPhenotypes_DS_2022.08.18.v2_ALL.csv"
 adni_pheno_file = "data/ADNIPhenotypes_DS_2022.08.18.v2_ALL.csv"
 
-sample_manifest_file = "data/SampleManifest_DS_2022.08.18.v2_ALL.csv"
+sample_manifest_file = "data/SampleManifest_DS_2022.08.18.v3_ALL.csv"
 
 ibd_pair_rec_file = "data/gcad.r4.wgs.36361.2023.06.06.pairwise_IBD.summary.xlsx"
 
