@@ -12,15 +12,15 @@ Additionally, specify the file names and locations for each of the phenotype fil
 The default file list uses the “ALL” consent files. If you do not have access to these files (if you are not approved for all consent levels), then please combine your individual consent-level files for each file type into one and use that in place of the “ALL” files below. 
 
 
-The default file list that will be utilized is (released in ng00067.v10): 
+The default file list that will be utilized is (released in ng00067.v11): 
 
-data/ADSPCaseControlPhenotypes_DS_2022.08.18.v2_ALL.csv 
+data/ADSPCaseControlPhenotypes_DS_2022.08.18.v3_ALL.csv 
 
 data/ADSPFamilyBasedPhenotypes_DS_2022.08.18.v2_ALL.csv 
 
 data/ADNIPhenotypes_DS_2022.08.18.v2_ALL.csv 
 
-data/SampleManifest_DS_2022.08.18.v2_ALL.csv 
+data/SampleManifest_DS_2022.08.18.v3_ALL.csv 
 
 data/gcad.r4.wgs.36361.2023.06.06.pairwise_IBD.summary.xlsx 
 
